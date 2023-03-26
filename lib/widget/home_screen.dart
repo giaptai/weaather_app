@@ -2,8 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:weaather_app/utilities/colofull.dart';
 import 'package:weaather_app/utilities/getAPI.dart';
 import 'package:weaather_app/utilities/textful.dart';
-import 'dart:core';
-import 'package:intl/intl.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
